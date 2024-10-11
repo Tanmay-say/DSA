@@ -1,1 +1,1 @@
-Hello13
+Value of X : 12 Y :10
